@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FERNOXMC.aternos.me",
-    "port": 21933,
+    "ip": "FERNOX.aternos.me",
+    "port": 26729,
     "version": "",
     "try-creative": false
   },
